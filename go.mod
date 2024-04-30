@@ -1,3 +1,3 @@
-module github.com/ivansuteja96/go-onnxruntime
+module github.com/wexder/go-onnxruntime
 
-go 1.14
+go 1.21
